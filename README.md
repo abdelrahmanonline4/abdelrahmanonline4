@@ -7,9 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.facebook.com/profile.php?id=100074004075398" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-    </a>
+
     <a href="https://www.linkedin.com/in/abdelrahman-ahmed-300752307/" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
     </a>
