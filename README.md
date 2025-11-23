@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Ahmed</h1>
+<h1 align="center"> Abdelrahman Ahmed</h1>
 <h3 align="center">Senior DevOps Engineer | Cloud | CI/CD | Automation</h3>
 
 <p align="center">
